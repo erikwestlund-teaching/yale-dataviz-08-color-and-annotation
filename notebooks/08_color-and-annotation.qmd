@@ -1,0 +1,24 @@
+---
+title: "Color and Annotation"
+---
+
+## Task
+
+Use color and text to point the reader to what matters in two figures: a country scatterplot and a ranked plot of state populations. The steps are in the module guide.
+
+```{r}
+#| message: false
+library(readr)
+library(dplyr)
+library(tidyr)
+library(forcats)
+library(ggplot2)
+library(scales)
+library(ggrepel)
+```
+
+## Analysis
+
+```{r}
+
+```
